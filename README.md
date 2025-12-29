@@ -1,4 +1,5 @@
 🛒 Retail Sales Machine Learning Project
+
 📌 Project Overview
 
 This project applies machine learning techniques to a real-world retail dataset to analyze and model weekly sales performance across multiple stores.
@@ -27,7 +28,7 @@ Which factors actually drive weekly sales, and how well can machine learning mod
 
 📂 Dataset
 
-The dataset contains historical weekly sales data along with economic and store-level features.
+The dataset contains historical weekly sales data along with economic and store-level features [https://www.kaggle.com/datasets/yasserh/walmart-dataset]. 
 
 Key Columns
 
@@ -60,6 +61,7 @@ Scikit-learn
 Jupyter Notebook
 
 🔄 Project Workflow
+
 1️⃣ Data Understanding & Cleaning
 
 Inspected dataset structure and column consistency
@@ -95,6 +97,7 @@ Encoded categorical variables (Store)
 Prepared data for both regression and classification tasks
 
 🤖 Models Implemented
+
 🔵 Regression Models (Predict Weekly Sales)
 Model	Purpose
 Linear Regression	Baseline model
